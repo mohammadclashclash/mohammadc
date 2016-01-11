@@ -238,10 +238,10 @@ function create_config( )
   📢  
   👤 Admin : @mohammad20162015
 
-  🙏 Special Thanks :
+  🙏 Special Thanks @alpha_hk48
 
-        @
-        @
+       
+        
   
   Checkout yon.ir/yNk0
 ]],
@@ -349,7 +349,7 @@ function create_config( )
 !feedback
 
 💬 توضيحات ضد اسپم
-!teledark
+
 
 💬 راهنمای ربات (همین متن)
 !help
@@ -365,7 +365,7 @@ function create_config( )
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
-   👿 TeleDark By @AmirDark 👿
+   @mohammad20162015
    
 ]]
 
